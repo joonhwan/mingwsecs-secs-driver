@@ -1,0 +1,1 @@
+The Free SECS/GEM Driver run on Linux/Windows. Support HSMS/RS232, SECS-I, SECS-II, GEM
